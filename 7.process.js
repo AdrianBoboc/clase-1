@@ -1,5 +1,6 @@
 // argumentos de entrada
 console.log(process.argv)
+// probar mediante "node 7.process.js aaaa --hola que tal--procesos"
 
 // controlar el proceso y su salida
 // si sale 0 es que todo ha salido bien
